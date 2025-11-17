@@ -1,51 +1,53 @@
-# Личный проект «Кекстаграм»
+### 📸 Kekstagram-2 — Social Photo Sharing Web App (Vanilla JS)
 
-* Студент: [Луиза Хакиева](https://up.htmlacademy.ru/javascript-individual/2/user/2567601).
-* Наставник: `Давид Чачанов`.
-
----
-
-_Не удаляйте и не изменяйте самовольно файлы и папки:_
-_`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
+**Kekstagram-2** is a front-end web project created with **HTML, SCSS, and JavaScript**.
+It allows users to view photos, interact with posts, and explore a simple social photo-sharing interface.
+This project was completed as part of a learning program at HTML Academy.
 
 ---
 
-[Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
+## 🚀 Features
 
-### Памятка
+* Browse photos in a gallery
+* Filter photos by hashtags or categories
+* Like photos
+* View photo details in a popup/modal
+* Responsive layout for desktop and mobile
 
-#### 1. Зарегистрируйтесь на Гитхабе
+---
 
-Если у вас ещё нет аккаунта на [github.com](https://github.com/join), скорее зарегистрируйтесь.
+## 🛠️ Technologies
 
-#### 2. Создайте форк
+* HTML5
+* Sass / SCSS (with nesting and variables)
+* CSS3 (Flexbox / Grid)
+* JavaScript (ES6)
+* Webpack / Vanilla JS modules
+* DOM manipulation and event handling
 
-Откройте репозиторий и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий из Академии будет скопирован в ваш аккаунт.
+---
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275222-1d624452-0050-11e8-8aca-06d2832724ce.png">
+## ⚙️ How to Run
 
-Получится вот так:
+1. Clone the repository:
 
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275223-1d7cf9fa-0050-11e8-829b-98ac3c9a4f8b.png">
-
-#### 3. Клонируйте репозиторий на свой компьютер
-
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Также обратите внимание, что клонировать репозиторий нужно через SSH, а не через HTTPS. Нажмите зелёную кнопку в правой части экрана, чтобы скопировать SSH-адрес вашего репозитория:
-
-<img width="769" alt="" src="https://user-images.githubusercontent.com/10909/35275224-1d97a7dc-0050-11e8-89f9-41c9a7b2ae9c.png">
-
-Клонировать репозиторий можно так:
-
-```
-git clone SSH-адрес_вашего_форка
+```bash
+git clone https://github.com/AmenEpistat/2567601-kekstagram-2.git
+cd 2567601-kekstagram-2
 ```
 
-Команда клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
-
-#### 4. Начинайте обучение!
+2. Install dependencies
+```bash
+npm install
+```
+3. Start the project
+```bash
+npm start
+```
 
 ---
 
-<a href="https://htmlacademy.ru/intensive/javascript"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/javascript/logo-for-github-2.png"></a>
+## 💡 Notes
 
-Репозиторий создан для обучения на интенсивном онлайн‑курсе «[JavaScript. Профессиональная разработка веб-интерфейсов](https://htmlacademy.ru/intensive/javascript)» от [HTML Academy](https://htmlacademy.ru).
+* This is a learning project focused on **DOM manipulation, event handling, and responsive layout**.
+* Designed as part of **HTML Academy course projects**.
